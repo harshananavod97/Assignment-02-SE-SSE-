@@ -1,9 +1,13 @@
 Harshana Navod
 
 Clone the repository
+
 Go to Folder Root Derectory
-flutter pub get
+
+flutter pub get  
+
 flutter run
+
 flutter version
 
 Requirments : Android SDK version 34.0.0 Flutter (Channel stable, 3.24.5,) Version
